@@ -1,0 +1,8 @@
+# 忽略data相关文件
+.idea/
+data/heatmap
+data/log*
+data/metrics
+data/origin
+data/output_model
+data/train

@@ -1,0 +1,2 @@
+# 在提交到 Git 仓库时统一转换为 LF
+* text=auto eol=lf
